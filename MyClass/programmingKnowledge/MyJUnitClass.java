@@ -10,5 +10,9 @@ public class MyJUnitClass {
 	{
 		return  a+b;
 	}
-
+	public static void main() {
+		System.out.println("Loknath");
+		
+	}
+      
 }
